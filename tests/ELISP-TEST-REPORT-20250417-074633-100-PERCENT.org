@@ -1,0 +1,18 @@
+#+TITLE: Elisp Test Report
+#+AUTHOR: ywatanabe
+#+DATE: 2025-04-17 07:46:34 Created by https://github.com/ywatanabe1989/emacs-test
+
+* Test Results Summary
+
+- Passed: 1
+- Failed: 0
+- Skipped: 0
+- Timeout (= 10 s): 0
+- Duplicates: 0
+- Total: 1
+- Total Time: 0.04 seconds
+- Success Rate: 100.0%
+
+* Passed Tests (1)
+** test-emacs-buffer-navigation-history-tracking.el (1 tests)
+- [[file:test-emacs-buffer-navigation-history-tracking.el::test-emacs-buffer-navigation-history-tracking][test-emacs-buffer-navigation-history-tracking]]
